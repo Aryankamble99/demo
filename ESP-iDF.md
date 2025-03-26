@@ -22,6 +22,13 @@
            2. debug (use for testing)
            3. info (data)
            4. warning
-           5. error  
+           5. error
+9. use .gitignore before pushing your code into github
+   in .gitignore add
+   1. .vscode
+   2.  .devcontainer
+   3.  managed_components
+   4.  dependencies.lock
+      
  
       
