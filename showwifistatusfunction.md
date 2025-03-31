@@ -1,5 +1,4 @@
-
-'''mermaid    
+```mermaid 
 flowchart TD  
 A((Start)) --> B["Log: NetworkMode, C_WiFi_APOn, C_WiFi_STAOn"]  
 B --> C{Check i}  
