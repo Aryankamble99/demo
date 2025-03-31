@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD  
     A((Start)) --> B{WiFi Connected?}  
     B -->|Yes| C((Exit))  
