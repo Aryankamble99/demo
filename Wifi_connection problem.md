@@ -100,6 +100,10 @@ if (WiFi.status() != WL_CONNECTED) {
 Ensure the ESP32 is getting sufficient and stable power. Try a different power source or USB cable.    
 **2. Antenna Issues**  
 If you are using an external antenna, ensure it is connected properly and the jumper 0K resistor is in the proper position for the desired antenna  
+ 
+**3. Low DHCP IP Pool**       (check with IT team)     
+Pool: 192.168.1.100 to 192.168.1.110  
+only 11 IPs available.  
 
 
 
